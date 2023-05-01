@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;900&display=swap');
+
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato';
 }
 
 a {
@@ -36,6 +37,7 @@ header nav ul {
 }
 
 header nav ul li {
+    display: inline-flex;
     margin-right: 10px;
 }
 
@@ -128,7 +130,7 @@ section.fullwidth h2 {
 footer {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    background-color: ;
+    background-color: rgb(240,240,240);
 }
 
 footer>div {
