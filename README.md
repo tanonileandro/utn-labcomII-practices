@@ -1,5 +1,6 @@
 # utn-labcomII-practices
-Contenido Laboratorio de Computacion II
+Tecnicatura Universitaria en Programación - UTN frro
+Contenido Laboratorio de Computación II
 - Integrador
 - Parciales
 - Practicas
